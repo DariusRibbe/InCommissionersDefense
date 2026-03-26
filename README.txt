@@ -17,7 +17,7 @@ Zusätzlich präsentieren wir einige Robustness-Checks: Hand-Codiertes Test-Set,
 
 Bei Fragen stehen wir gerne unter: 
 
-darius.ribbe@uol.de 
+darius.ribbe@uol.de / carlotta.steimke@uni-oldenburg.de
 
 zur Verfügung. 
 
